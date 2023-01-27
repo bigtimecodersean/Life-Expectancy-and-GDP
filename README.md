@@ -1,4 +1,3 @@
 # Life-Expectancy-and-GDP
 
-
-this is a test tutorial
+Comparing the GDP and Life Expectancy of different countries.
